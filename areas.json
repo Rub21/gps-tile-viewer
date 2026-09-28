@@ -1,0 +1,145 @@
+{
+  "updated": "2026-09-28",
+  "areas": [
+    {
+      "name": "Arequipa, Peru",
+      "lat": -15.8345,
+      "lon": -71.9824,
+      "zoom": 9,
+      "points": 616584
+    },
+    {
+      "name": "Argelia, Antioquia",
+      "lat": 5.6626,
+      "lon": -75.0469,
+      "zoom": 9,
+      "points": 62925
+    },
+    {
+      "name": "Bucks County, Pennsylvania",
+      "lat": 40.4469,
+      "lon": -75.2344,
+      "zoom": 9,
+      "points": 453113
+    },
+    {
+      "name": "Buenos Aires, Argentina",
+      "lat": -36.2584,
+      "lon": -61.125,
+      "zoom": 9,
+      "points": 44121
+    },
+    {
+      "name": "Cheshire East, England",
+      "lat": 53.2608,
+      "lon": -2.3438,
+      "zoom": 9,
+      "points": 48949
+    },
+    {
+      "name": "Highland, Scotland",
+      "lat": 56.8682,
+      "lon": -4.6406,
+      "zoom": 9,
+      "points": 157048
+    },
+    {
+      "name": "H\u00e9rens, Valais/Wallis",
+      "lat": 46.0289,
+      "lon": 7.4148,
+      "zoom": 9,
+      "points": 67748
+    },
+    {
+      "name": "Kreis Wesel, North Rhine-Westphalia",
+      "lat": 51.7567,
+      "lon": 6.5838,
+      "zoom": 9,
+      "points": 2137640
+    },
+    {
+      "name": "Latvia",
+      "lat": 56.8352,
+      "lon": 25.6138,
+      "zoom": 9,
+      "points": 385740
+    },
+    {
+      "name": "Peru",
+      "lat": -4.048,
+      "lon": -81.596,
+      "zoom": 9,
+      "points": 56146
+    },
+    {
+      "name": "Provincia Cordillera, Santa Cruz",
+      "lat": -18.6462,
+      "lon": -63.4091,
+      "zoom": 9,
+      "points": 99886
+    },
+    {
+      "name": "Provincia de Diguill\u00edn, Nuble Region",
+      "lat": -37.0357,
+      "lon": -71.3281,
+      "zoom": 9,
+      "points": 56134
+    },
+    {
+      "name": "San Juan County, New Mexico",
+      "lat": 36.8343,
+      "lon": -107.8503,
+      "zoom": 9,
+      "points": 42137
+    },
+    {
+      "name": "San Mart\u00edn, Peru",
+      "lat": -7.0137,
+      "lon": -77.6953,
+      "zoom": 9,
+      "points": 99595
+    },
+    {
+      "name": "Santa Catarina, Brazil",
+      "lat": -26.6325,
+      "lon": -52.0594,
+      "zoom": 9,
+      "points": 73267
+    },
+    {
+      "name": "Santa Cruz, Argentina",
+      "lat": -51.4569,
+      "lon": -70.4235,
+      "zoom": 9,
+      "points": 43493
+    },
+    {
+      "name": "Santiago Xanica, Oaxaca",
+      "lat": 16.0177,
+      "lon": -96.2109,
+      "zoom": 9,
+      "points": 45185
+    },
+    {
+      "name": "Santiago del Estero, Argentina",
+      "lat": -26.9229,
+      "lon": -62.517,
+      "zoom": 9,
+      "points": 66587
+    },
+    {
+      "name": "Smalyavichy District, Minsk Region",
+      "lat": 53.8179,
+      "lon": 28.0078,
+      "zoom": 9,
+      "points": 53011
+    },
+    {
+      "name": "\u017bary County, Lubusz Voivodeship",
+      "lat": 51.7533,
+      "lon": 15.202,
+      "zoom": 9,
+      "points": 121809
+    }
+  ]
+}
